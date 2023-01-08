@@ -59,7 +59,7 @@ h1 {
     object-fit: contain;
 }
 
-.product-container link {
+.product-container button {
     border: 0ch;
     border-style: inherit;
     background-color: red;
@@ -67,7 +67,44 @@ h1 {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    margin-left: 20px;
 }
+
+.product-container button :hover {
+    color: orange;
+}
+
+.link {
+    border-radius: 15px;
+    margin-left: 20px;
+}
+
+.navLink {
+    color: white;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 0 1rem;
+    margin-left: 8px;
+    font-size: large;
+    border-radius: 10px;
+}
+
+.sort {
+    color: white;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    padding: 0 1rem;
+    margin-left: 8px;
+    font-size: large;
+    border-radius: 10px;
+}
+
 
 @media (max-width: 768px) {
     .product-container {

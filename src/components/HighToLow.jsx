@@ -36,9 +36,9 @@ export default class Productlist extends React.Component {
           <button onClick={this.myFilter("Hat")}>Hats</button>
           <button onClick={this.myFilter("Tops")}>Tops</button>
           <h4>Sort By Price: </h4>
-          <Link to="/products/lowTohigh">Low to High</Link>
-          <Link to="/products/highTolow">High to Low</Link>
-          <Link to="/products">Reset</Link>
+          <Link className = "sort" to="/products/lowTohigh">Low to High</Link>
+          <Link className = "sort" to="/products/highTolow">High to Low</Link>
+          <Link className = "sort" to="/products">Reset</Link>
         </div>
         <div className="prod">
           {this.state.products

@@ -1,0 +1,88 @@
+
+[
+    {   "id": 1, 
+        "image" : "/IMG/Giyu.jpg", 
+        "name" : "Giya Button Up",
+        "price" : "$30",
+        "category" : "tops", 
+        "description" : "Based of of Giyu Tomioka's Haori. <br> 100% Polyester Rayon. <br> Hawaiian Style. True to size."
+    },
+    { "id": 2, 
+        "image" : "/IMG/ChopperBucketHat.jpg", 
+        "name" : "Chopper Bucket Hat",
+        "price" : "$24",
+        "category" : "hat", 
+        "description" : "Embroidered and felt X.<br> Soft Fleece material.<br> The antlers are floppy and won't stay stiff on the hat."
+  },
+  { "id": 3, 
+    "image" : "/IMG/Howls.jpg", 
+    "name" : "Howls Moving Castle Cardigan",
+    "price" : "$50",
+    "category" : "tops", 
+    "description" : "Material: 35% Viscose, 20% Cotton, 25% Polyester, 20% Nylon.<br> XS-XXXL"
+},
+{ "id": 4, 
+    "image" : "/IMG/SasukeCurseMark.jpg", 
+    "name" : "Sasuke Curse Mark Sweater",
+    "price" : "$45",
+    "category" : "tops", 
+    "description" : "Screen printed pattern, embroidered curse seal. <br>Lavender base color. <br>Oversized fit with drop shoulders."
+},
+{ "id": 5, 
+    "image" : "/IMG/DrankenTokyoRevengers.jpg", 
+    "name" : "Draken Tokyo Revengers Sweater Vest",
+    "price" : "$35",
+    "category" : "tops", 
+    "description" : "Material: 35% Viscose, 20% Cotton, 25% Polyester, 20% Nylon. <br> XS-XXXL"
+},
+{ "id": 6, 
+    "image" : "/IMG/SailorMoon.jpg", 
+    "name" : "Sleepy Sailor Moon Sweater",
+    "price" : "$45",
+    "category" : "tops", 
+    "description" : "We call this Triple S sweater cause it's Sweet, Super Cute, and well, Sailor."
+},
+{ "id": 7, 
+    "image" : "/IMG/Deaththekid.jpg", 
+    "name" : "Death The Kid Beanie",
+    "price" : "$21",
+    "category" : "hat", 
+    "description" : "Soul Eater, Death the Kid beanie."
+},
+{ "id": 8, 
+    "image" : "/IMG/SoulEaterBeanie.jpg", 
+    "name" : "Soul Eater Beanie",
+    "price" : "$21",
+    "category" : "hat", 
+    "description" : "Soul Eater Beanie, from Anime Soul Eater."
+},
+{ "id": 9, 
+    "image" : "/IMG/Sukuna.jpg", 
+    "name" : "Sukuna - Jujutsu Kaisen Hoodie",
+    "price" : "$50",
+    "category" : "tops", 
+    "description" : "Screen-printed graphics.<br> Black 330 GSM fleece Sweater.<br> Fits oversized and boxy."
+},
+{ "id": 10, 
+    "image" : "/IMG/TengenUzuiButtonUp.jpg", 
+    "name" : "Tengen Uzui Button Up",
+    "price" : "$30",
+    "category" : "tops", 
+    "description" : "The Flashiest button up you could ever own!<br> Hawaiian Style Shirt."
+},
+{ "id": 11, 
+    "image" : "/IMG/FireForceHoodie.jpg", 
+    "name" : "Fire Force Hoodie",
+    "price" : "$45",
+    "category" : "tops", 
+    "description" : "Cut and sewn panels.<br> Ribbed cuffs and collar.<br> Black 330 GSM fleece sweater. <br>Fits boxy and oversized."
+},
+{ "id": 12, 
+    "image" : "/IMG/ZeroTwoHat.jpg", 
+    "name" : "Zero Two Hat",
+    "price" : "$24",
+    "category" : "hat", 
+    "description" : "This hat is just Darling.<br> Darling in the Franxx Hat."
+}
+
+]

@@ -1,0 +1,22 @@
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+footer ul li a {
+    color: #ffffff;
+}
+
+footer ul li a:hover {
+    transition: 1s;
+    opacity: 40%;
+    color: rgb(236, 18, 18);
+}

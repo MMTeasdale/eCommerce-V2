@@ -9,7 +9,7 @@ const api = mysql.createConnection ({
   host: "ecom.cbpba6q3mggr.us-east-1.rds.amazonaws.com", 
   user: "Mariah", 
   password: "MariahMarie14",
-  database: "eCom"
+  database: "ecommercev2"
 })
 
 api.connect((err) => {

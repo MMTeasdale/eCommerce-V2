@@ -54,7 +54,7 @@ class Products extends React.Component {
               .map((items) => (
                 <div className="products" key={items.id}>
                   <img className="img" src={items.image} alt={items.name} />
-                  <p className="name">{items.product}</p>
+                  <p className="product">{items.product}</p>
                   <p className="description">{items.description}</p>
                   <p className="price">${items.price}</p>
                 </div>

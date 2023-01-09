@@ -6,10 +6,10 @@ const path = require("path");
 const mysql = require("mysql");
 const bodyParser = require("body-parser");
 const api = mysql.createConnection ({
-  host: "127.0.0.1", 
+  host: "ecom.cbpba6q3mggr.us-east-1.rds.amazonaws.com", 
   user: "Mariah", 
-  password: "LunaNiver14",
-  database: "ecommercev2"
+  password: "MariahMarie14",
+  database: "eCom"
 })
 
 api.connect((err) => {
